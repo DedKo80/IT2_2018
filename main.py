@@ -1,6 +1,6 @@
 import sys
-print('меня зовут Савелий, я тут')
 
+print('VvvvVvvvvVvvvvV')
 print('Hello world')
 
 for i in range(10):
