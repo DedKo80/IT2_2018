@@ -14,6 +14,7 @@ if "linux" in g:
     print("оу май.................................................................")
 
 print('Hello Надя')
+print('A komu schas legko?')
 
 # эту строчку я добавrtyил с сайта
 # de pranque
