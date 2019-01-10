@@ -15,6 +15,6 @@ if "linux" in g:
 
 print('Hello Надя')
 
-# эту строчку я добавил с сайта
+# эту строчку я добавrtил с сайта
 # de pranque
 # klass
