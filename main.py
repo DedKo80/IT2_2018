@@ -1,6 +1,6 @@
 import sys
 
-print('VvvvVvvvvVvvvvV')
+print('VvvvVvvvvVvvvvVvvvvVvvvvV')
 print('Hello world')
 
 for i in range(10):
