@@ -1,5 +1,5 @@
 import sys
-print('меня зовут Савелий, я тут!!!')
+print('меня зовут Савелий, я тут!!')
 
 print('Hello world')
 
